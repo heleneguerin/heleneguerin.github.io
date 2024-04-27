@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="Professor, Université du Québec à Montréal (UQAM)">
+    <meta name="author" content="Hélène Guérin">
+    <title>Hélène Guérin</title>
+
+   <!-- Bootstrap -->
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="http://heleneguerin.github.io/">
+    <link rel="stylesheet" href="/font-awesome-4.5.0/css/font-awesome.min.css">
+
+    <noscript>
+        <style> .ifjavascript {
+            display: none
+        } </style>
+    </noscript>
+</head>
+
+<body>
+
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                    aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/index.html">Hélène Guérin</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li>
+                    <a class="navbar-link" href="/index.html">home</a>
+                </li>
+                <li >
+                    <a class="navbar-link" href="/research/">research</a>
+                </li>
+		<li >
+                    <a class="navbar-link" href="/teaching/">teaching</a>
+                </li>
+                <li  class="active">
+                    <a class="navbar-link" href="/students/">students</a>
+                </li>
+                <li >
+                    <a class="navbar-link" href="/cv/">cv</a>
+                </li>
+                <li >
+                    <a class="navbar-link" href="/contact/">contact</a>
+                </li>
+            </ul>
+        </div> 
+    </div>
+</nav>
+
+<!-- ici -->	
+
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-8">
+
+			<h3> Information for research interns </h3>
+			<br>
+			<h4 id="first"><span class="text-primary">First steps</span> </h4> 
+
+      <span style="color:rgb(255,0,0);">Visit the <a href="https://sciences.uqam.ca/stages-de-recherche/">Faculty of Science page</a></span> at UQAM dedicated to research interns. 
+		<br>	
+	      It explains all the important steps, including the very first steps to take.
+			
+			
+
+			<br>
+			The <a href="https://www.crmath.ca/bourses-et-sejours/postuler-et-informations-utiles/">CRM page</a> also provides valuable information.
+
+<br><br>
+			<span style="color:rgb(255,0,0);">For scholarship recipients:</span> UQAM and CRM are very slow in disbursing scholarships, so it is important to have enough money to support yourself for the entire duration of the internship. 
+			
+			For short and medium-term internships, it is highly likely that the scholarship will be disbursed after the internship is completed.
+
+			<br>
+			To expedite the disbursement process, contact the Faculty of Science's resource person (<a href="mailto:stagesfs_recherche@uqam.ca">stagesfs_recherche@uqam.ca</a>) upon your arrival in Montreal. UQAM will require the following documents (even for interns without a scholarship):
+			<ul>
+				<li>
+					<strong>proof of private and/or public health coverage</strong> (front and back copy of the RAMQ card) for the duration of the internship,
+				</li><li>	
+copy of the <strong>birth certificate indicating the names and first names of the parents</strong>.
+				</li>
+			</ul>
+			
+			<br>
+			<!--Immigration-->
+			<h4 id="immigration"><span class="text-primary">Immigration</span> </h4> 
+This section only concerns students who are neither citizens nor permanent residents of Canada. You need an up-to-date <span style="color:rgb(255,0,0);">passport</span>, with a sufficiently long validity period (to be checked).
+
+		<br>
+			The information below is presented for informational purposes only; it is important to verify with the <a href="https://www.canada.ca/fr/services/immigration-citoyennete.html">official page of the Government of Canada</a> the procedures you must follow to come to Canada.
+		
+						<ul>
+			<li><div class="text-justify">
+        		<strong>Short-term work permit exemption for researchers</strong>
+				<br>
+        			Adapted to interns who plan to stay less than 120 days (it is strictly forbidden to exceed this deadline).
+				The <a href="https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/bulletins-guides-operationnels/residents-temporaires/travailleurs-etrangers/exemption-chercheur.html">exemption for researchers</a> is obtained upon arrival at Montreal airport from immigration services, provided you have supporting documents (invitation letter, internship agreement, proof of funding, etc.).
+			</div>
+			
+			</li>
+		
+		
+			<li>
+   			<div class="text-justify">
+        		<strong>Work Permit</strong>
+				<br>
+        			If you cannot benefit from the short-term work permit exemption, you will need to apply for a <a href="https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/bulletins-guides-operationnels/residents-temporaires.html">work permit</a>.
+				The procedures are lengthy, so it is necessary to start early. 
+				<br>
+				After signing the internship agreement, UQAM will provide you with an employment number that will allow you to start the process.
+				<br>
+				You can find out the <a href="https://www.canada.ca/fr/immigration-refugies-citoyennete/services/demande/verifier-delais-traitement.html">average processing times</a> for Canada immigration. 
+	
+				
+			</div></li>
+			
+			<li> <div class="text-justify">
+				<strong>Additional steps to take</strong>  <small>(for everyone)</small>
+					<br>
+					To find out if you need an eTA or a visitor visa to enter Canada, <a href="https://ircc.canada.ca/francais/visiter/visas.asp">visit this page</a>.
+					</div>
+					<ul>
+				<li>
+			<div class="text-justify">
+        		<strong> eTA</strong> (electronic travel authorization) 
+				<br>
+        			For nationals of countries that do not require a visa to enter Canada,  
+				the eTA application is done online on the <a href="https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/ave.html">Government of Canada website: eTA</a>.
+			</div></li>
+						<li>
+			<div class="text-justify">
+        		<strong> Visitor Visa</strong>
+				<br>
+        			For nationals of countries requiring a visitor visa to enter Canada, <a href="https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/demande-visa-visiteur.html">visit this page</a>.
+				
+			</div></li>
+			</ul>
+			<li> <div class="text-justify">
+        		<strong> Just before your departure</strong> <small>(for everyone)</small>
+				<br>
+        			Download the <a href="https://www.canada.ca/fr/agence-services-frontaliers/services/arrivecan/compte.html">ArriveCAN</a> app on your phone and fill out the form the day before your departure.
+			</div></li>
+								
+			</li>
+		</ul>
+		  
+ 	
+<br>
+			<!--Health Insurance-->
+<h4 id="maladie"><span class="text-primary">Health Insurance</span> </h4> 
+
+			<ul>
+			<li>
+        		<strong> Countries with an agreement with RAMQ</strong>
+				<br>
+				RAMQ is the Quebec Health Insurance Board. Residents of certain countries (including France) have an agreement with RAMQ that allows interns to benefit from it for free and without a waiting period.
+				<br>
+				If you are eligible, you will need to request a form from your country's health insurance depending on your status (for example, <a href="https://ramqinter.prod.acquia-sites.com/fr/media/2516">SE 401-Q-106 form</a> or <a href="https://ramqinter.prod.acquia-sites.com/fr/media/2161">SE 401-Q-104 form</a> for French residents).
+				These procedures can take time, so do them as soon as you have your internship agreement.
+				<br>
+				Check the <a href="https://www.ramq.gouv.qc.ca/fr/etudiants-etrangers-inscrivez-vous-ligne-a-assurance-maladie">list of required documents</a> on the RAMQ website.
+		<br> Once in Montreal, you can <a href="https://www.ramq.gouv.qc.ca/fr/citoyens/assurance-maladie/inscrire">register online</a> with RAMQ.
+			</li>
+				<li>
+        		<strong> Private Insurance</strong>
+					<br>
+					You can either sign up for private insurance from your home country or in Canada. For example, some banks like Desjardins offer this type of <a href="https://www.desjardins.com/qc/fr/assurances/sante-dentaire.html">insurance for healthcare and dental care</a>.
+			</ul>
+<br>
+			<!--Other-->
+<h4 id="autres"><span class="text-primary">Other steps</span> </h4> 
+		<ul>
+			<li> Notify your bank of your departure.</li>
+			<li> Check with your mobile operator if you can use your plan in Canada (with Free, it's super easy and at no extra cost)</li>
+			<li> It is not necessary to request Canadian dollars from your bank (unless it reassures you). 
+				<br>
+				You can use your Visa/MasterCard debit card for payments (but some stores refuse them), and ATMs to withdraw money (there is one at the airport).
+		</ul>
+
+			<br>
+			<!--Arrival-->
+<h4 id="arrive"><span class="text-primary">Arrival in Montreal</span> </h4> 
+
+			<ul>
+			<li> <div class="text-justify">
+        		<strong> Immigration upon arrival at the airport</strong> <small>(for everyone)</small>
+				<br>
+        			<ul>
+					<li>
+						Get off the plane, head to immigration.
+						<li> At customs, you will first enter your information on terminals (giant iPads) and scan your passport (if you have filled out ArriveCAN, the procedures will be faster and you will only need to scan the QR code).
+							<br>
+							You will be asked, among other things
+							<ul> <li> the purpose of your trip: work/employment, ... </li>
+							<li> the duration of your stay: enter the number of days between your arrival and departure (it must absolutely be less than 120 days for the exemption request for researchers, otherwise you will have problems!).</li>
+							<li> food/alcohol/others: If you have something declare it! Check the <a href="https://inspection.canada.ca/salubrite-alimentaire-pour-les-consommateurs/introduction-au-canada-d-aliments-a-des-fins-perso/fra/1389630031549/1389630282362">list of authorized foods and quantities</a>. 
+							</li></ul>
+					<li>The terminal will print a paper. <strong>Keep this paper readily available at all times!</strong>
+							</li>
+					<li> You will pass in front of an agent, who will look at your paper, ask questions and ask you to go to the counter behind in a glass booth. This step can be very long.
+						<br>You absolutely must go through the immigration counter to obtain your work permit or your researcher permit exemption. Therefore, you must <strong>insist</strong> in case the customs officer asks you to go directly to pick up your luggage.
+					
+	</li><li>Then you will retrieve your luggage and pass in front of customs agents who will retrieve the paper from the terminal. <br>
+		At this stage, you may be asked to open your luggage (this happens often).
+					</li>
+			</div></li>
+				<li>
+					Take bus 747 or a taxi ($50-60) to your accommodation.
+					<br> Bus 747 will drop you off at Lionel Groux metro station for the orange & green lines. The bus ticket is purchased at an STM kiosk, which is just before the outdoor doors of the airport. 
+					<br> The ticket costs $11 (valid all day, unlimited metro/bus transfers), but you can also directly buy a weekly or monthly pass on an OPUS card (no surcharge for taking bus 747 with a pass).
+		
+					You can buy it with your Visa/MasterCard. 
+					<br>Buses are frequent and rather fast.
+				</li>
+		</ul>
+
+
+			<br>
+			<!--Accommodation-->
+	<h4 id="logement"><span class="text-primary">Accommodation</span> </h4> 
+			<ul>
+				<li>For short or medium-term stays
+					<ul><li>Hotel M <a href="https://www.m-montreal.com/fr">https://www.m-montreal.com/fr</a>
+					</li>
+						<li><a href="https://fr.airbnb.ca">Airbnb</a></li>
+						</ul>
+				</li>
+
+				<li>For medium or long-term stays
+					<br>
+					It is often easier to find accommodation or a flatshare once on site, so do not hesitate to take a hotel or an Airbnb room for the first few days.
+					<ul>
+						<li><a href="https://fr.airbnb.ca">Airbnb</a></li>
+						<li> <a href="https://services.uqam.ca/services-offerts/residences-universitaires/">University rooms at UQAM</a>
+						<li><a href="https://www.facebook.com/groups/131255417525688/">Flatshare MONTREAL, Room for Rent and Accommodations!</a>
+					
+				</li>
+						<li><a href="https://www.facebook.com/groups/colocationmontreal/">Flatshare Montreal</a>
+						</li>
+						<li> <a href="https://www.facebook.com/groups/131255417525688/">Kijiji</a>: All types of accommodations and flatshares
+				</li>
+						</ul>
+						</li>
+			</ul>
+
+			<br>
+			<!--Miscellaneous-->
+<h4 id="divers"><span class="text-primary">Miscellaneous Information</span> </h4> 
+		<ul>	
+					<li>The math department is located at the Faculty of Science, downtown Montreal, at Place des Arts metro station (green line). 
+					<br>The 55, 80, and 24 buses have a stop right next to the Faculty of Science and are very frequent. <a href="https://www.stm.info/fr/infos/reseaux/metro/place-des-arts">List of transports to get to the Faculty of Science</a>.
+
+					</li><li>Public transportation (metro/bus) is very efficient, so do not hesitate to look for accommodation outside the city center (expensive and not very pleasant to live in).
+					</li><li> There are many bike paths and it is possible to subscribe to the bike-sharing service <a href="https://bixi.com/">BIXI</a> (remember to bring a bike helmet in your luggage).
+</li><li>
+Some nice neighborhoods to live in: Plateau-Mont-Royal (Mont-Royal Metro, bus 55), Mile-End (Laurier Metro, bus 55, 80), Rosemont/Petite-Patrie (Beaubien Metro, bus 55), Villeray (Jean-Talon-Jarry Metro, bus 55), Parc Lafontaine (bus 24), Hochelaga (Joliette Metro, bus 125)..
+Students often live in Mont-Royal or Mile-End.
+</li>
+			<li> Tips: it is <strong>mandatory</strong> to leave a tip when going to a restaurant (except fast food): minimum 15% when eating in, 10% if taking away.
+				<br> It is customary to give a tip to the taxi driver and hairdresser (about 10%).
+				
+			</li>
+			<li> Grocery stores/Supermarkets: the names of the stores for grocery shopping are <i>Metro, Provigo, IGA, Richelieu</i>, etc. You will find many small "zero waste" grocery stores.
+				<br> Pharmacies (<i>Pharmaprix, Jean Coutu, etc.</i>) resemble grocery stores, you will find medicines, shampoo, toilet paper, household products, milk, batteries, etc.
+				<br> Convenience stores are small grocery stores, found on almost every street corner, and are open late.
+		<!-- 		<br> At <i>Dollarama</i>, you can find everything for cheap. 
+				<br> There are many excellent bakeries, Latin American, Asian, Italian grocery stores,... the city is very cosmopolitan.-->
+				<br> 
+			</li>
+
+					</ul>
+
+			<br>
+			<br>
+					
+			
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		</div>
+	</div>
+</div>
+<br>
+ 
+ 
+<!-- ici -->	
+
+<div class="navbar navbar-default navbar-bottom">
+    <div class="container">
+        <h4>Hélène Guérin </h4>
+        <div class="row">
+		<div class="col-md-4">
+                     <p>&nbsp;&nbsp;Département de Mathématiques<br/>
+			&nbsp;&nbsp;Université du Québec à Montréal <br> 
+		     </p>
+            	</div>
+            	<div class="col-md-4"> <!--<div class="col-md-4">--->
+                	<p>
+                    	<i class="fa fa-caret-right"></i>
+                    	<a href="mailto:guerin.helene@uqam.ca">
+                       	guerin.helene@uqam.ca
+                    	</a><br>			  
+                	</p>
+             	</div>	
+        </div>
+     </div>
+</div>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/javascripts/bootstrap.min.js"></script>
+
+
+</body>
+
+</html>
